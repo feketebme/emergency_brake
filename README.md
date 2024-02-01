@@ -1,12 +1,8 @@
 Steps:
   1. Edit config
   2. run main.py with args --config and --visualize
-Folder structure:
-  data_folder:
-             |
-             |->camera_intrinsic_matrix.json
-             |
-             |->Images:
-                      |->depth
-                      |->rgb     
+
+![image](https://github.com/feketebme/emergency_brake/assets/147092521/ed4196e3-e5b0-424c-bf82-fc3ab63d1426)
+
+
   
